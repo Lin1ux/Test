@@ -1,1 +1,1 @@
-Test repository made learn how GitHub works
+Test repository made to learn how GitHub works
