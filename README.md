@@ -1,1 +1,1 @@
-Test repository made to understand how to push new files
+Test repository made learn how GitHub works
